@@ -1,2 +1,0 @@
-# ReactJsCalculato
-Created with CodeSandbox
